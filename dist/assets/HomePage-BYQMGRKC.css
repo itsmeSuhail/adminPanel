@@ -1,0 +1,1 @@
+.container{display:flex;align-items:center;flex-wrap:wrap;padding:20px 40px;justify-content:center}.item{width:23%;margin:10px}@media screen and (max-width: 1050px){.item{width:30%}}@media screen and (max-width: 750px){.container{padding:20px}.item{width:45%}}@media screen and (max-width: 450px){.item{width:90%}}
